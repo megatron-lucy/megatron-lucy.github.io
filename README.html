@@ -5,10 +5,20 @@
 <script>
 var d = document;
 function go(_s){return d.getElementById(_s);}
-var n=1;
+function standardInput2process(_str){
+  _str = _str.replaceAll('a', '4');
+  _str = _str.replaceAll('b', '8');
+  _str = _str.replaceAll('e', '3');
+  _str = _str.replaceAll('l', '1');
+  _str = _str.replaceAll('o', '0');
+  _str = _str.replaceAll('s', '5');
+  _str = _str.replaceAll('t', '7');
+
+  return _str;
+}
 </script>
-txtIn: <input type="text" id="txtIn" size="20"><br>
-btnExecute: <input type="button" onclick="n++;go('txtHello').value=n;"><br>
-txtOut: <input type="text" id="txtHello">
+txtIn: <input type="text" id="txtIn" size="abcdefghijklmnopqrstuvwxyz"><br>
+btnExecute: <input type="button" value="                    " onclick="go('txtOut').value = standardInput2process(go('txtIn').value);"><br>
+txtOut: <input type="text" id="txtOut">
 </body>
 </html>
