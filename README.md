@@ -1,16 +1,15 @@
 
 
-[test](https://github.com/user95f85f)
+a-z Javascript translation tool (like leetsp34k converter): [https://megatron-lucy.github.io/README.html](https://megatron-lucy.github.io/README.html)
 
+cheatsheets: [https://github.com/user95f85f](https://github.com/user95f85f)
 
-cheatsheets: (https://github.com/user95f85f)
+w2p.pl [https://gist.githubusercontent.com/megatron-lucy/c725fc6722298997967599315a587b05/raw/41c8af69cb8c31b9001307107510c1e6cf8c0b90/w2p.pl](https://gist.githubusercontent.com/megatron-lucy/c725fc6722298997967599315a587b05/raw/41c8af69cb8c31b9001307107510c1e6cf8c0b90/w2p.pl)
 
-w2p.pl (https://gist.githubusercontent.com/megatron-lucy/c725fc6722298997967599315a587b05/raw/41c8af69cb8c31b9001307107510c1e6cf8c0b90/w2p.pl)
+main page: [https://github.com/megatron-lucy](https://github.com/megatron-lucy)
 
-main page: (https://github.com/megatron-lucy)
+edit w2p.pl: [https://gist.github.com/megatron-lucy](https://gist.github.com/megatron-lucy)
 
-edit w2p.pl: (https://gist.github.com/megatron-lucy)
+edit github: [https://github.com/megatron-lucy/megatron-lucy.github.io](https://github.com/megatron-lucy/megatron-lucy.github.io)
 
-edit github: (https://github.com/megatron-lucy/megatron-lucy.github.io)
-
-edit main page: (https://github.com/megatron-lucy/megatron-lucy)
+edit main page: [https://github.com/megatron-lucy/megatron-lucy](https://github.com/megatron-lucy/megatron-lucy)
