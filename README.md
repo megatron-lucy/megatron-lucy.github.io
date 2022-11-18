@@ -1,4 +1,6 @@
 
+user95f85f/diablo-2-cdkeys-clue.txt : Diablo 2 CD-key clue:
+[https://gist.github.com/user95f85f/c99e8754c3eb97a01d9422cb94349dd8](https://gist.github.com/user95f85f/c99e8754c3eb97a01d9422cb94349dd8)
 
 user95f85f/diablo-2-checksums-with-md5-md5sum.txt : diablo 2 checksums of installer 1.14b downloaded from blizzard, patch exe 1.14d: [https://gist.github.com/user95f85f/4160c2f1d65f56fe9cc94c4a115108a8](https://gist.github.com/user95f85f/4160c2f1d65f56fe9cc94c4a115108a8)
 
